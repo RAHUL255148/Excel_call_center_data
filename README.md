@@ -36,3 +36,4 @@ Visualization: Developed PivotTables and PivotCharts for each insight category, 
 ✅ Conclusion
 This Excel-based dashboard delivers a high-level overview of call center operations with the ability to drill down into individual representative performance. It highlights patterns in engagement and profitability, helps compare city-wise contributions, and brings clarity to gender-based performance trends. The use of Power Pivot and DAX measures elevates this analysis beyond traditional spreadsheet reporting, providing a dynamic, business-ready decision-support tool.
 
+
