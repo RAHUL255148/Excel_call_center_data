@@ -16,6 +16,8 @@ Gender Contribution: Revenue and engagement split between male and female repres
 Representative Engagement: Time-to-revenue ratio per individual.
 
 📌 Project Insights
+
+
 Representative-Wise Reports: Visuals and tables breaking down each representative’s performance, including call records, satisfaction scores, and revenue generated.
 
 City-Wise Profitability: Aggregated revenue and call activity by location, helping identify the most productive cities.
@@ -25,6 +27,8 @@ Gender-Based Contribution: An analysis of how male and female representatives co
 Revenue per Call: Efficiency of representatives in generating income based on total calls handled.
 
 🔄 Project Process
+
+
 Data Collection: Combined two data sources — Call Data and Representative Data.
 
 Data Cleaning: Cleaned and structured the datasets using Excel functions and lookups.
@@ -36,6 +40,8 @@ DAX Measures: Created custom measures for revenue calculation, call duration, av
 Visualization: Developed PivotTables and PivotCharts for each insight category, providing clear, filterable dashboards.
 
 ✅ Conclusion
+
+
 This Excel-based dashboard delivers a high-level overview of call center operations with the ability to drill down into individual representative performance. It highlights patterns in engagement and profitability, helps compare city-wise contributions, and brings clarity to gender-based performance trends. The use of Power Pivot and DAX measures elevates this analysis beyond traditional spreadsheet reporting, providing a dynamic, business-ready decision-support tool.
 
 
