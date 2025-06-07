@@ -1,4 +1,6 @@
 📞 Call Center Data Analysis in Excel
+
+
 🔍 Introduction
 This project presents a comprehensive analysis of call center performance data using Microsoft Excel and Power Pivot. The dataset includes detailed call records and representative performance metrics. By leveraging DAX measures and data modeling, this project transforms raw call center data into actionable business insights, focusing on profitability, engagement, and customer satisfaction.
 
